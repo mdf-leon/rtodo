@@ -1,6 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
+        "./Cargo.toml",
         "./Cargo.toml"
-    ]
+    ],
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line"
 }
